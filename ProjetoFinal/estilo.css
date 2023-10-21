@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#barra-topo {
+    background-color: #5e6cab;
+    height: 8px;
+    width: 98,5vw;
+}
+
+table {
+    margin: 50px auto 50px 330px;
+    width: 900px;
+}
+
+#copyright-texto {
+    text-align: center;
+}
